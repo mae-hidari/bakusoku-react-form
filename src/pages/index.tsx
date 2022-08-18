@@ -1,14 +1,7 @@
-import { Center, Container } from '@chakra-ui/react';
 import { NextPage } from 'next';
 
-const Home: NextPage = () => {
-  return (
-    <>
-      <Container>
-        <Center h="10rem">ボイラープレート</Center>
-      </Container>
-    </>
-  );
+const Login: NextPage = () => {
+  return <>フォーム建設予定地</>;
 };
 
-export default Home;
+export default Login;
